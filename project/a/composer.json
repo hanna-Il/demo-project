@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/php-project-plugin-a",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Hanna.Yakush",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "6.2.2",
+    "friendsofphp/php-cs-fixer": "v2.18.2"
+  }
+}
